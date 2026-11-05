@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
     Optimierte, verbindliche Microsoft-Edge-Härtung.
+    Ursprungsquelle: https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Harden%20System%20Security/Resources/EdgeBrowserConfigurations.json
 
 .DESCRIPTION
     - Wendet eine ausgewählte, risikoarme Edge-Sicherheitsbaseline ausschließlich unter HKLM an.
